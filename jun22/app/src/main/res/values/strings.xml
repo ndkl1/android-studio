@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">jun22</string>
+    <string name="naslov">Racunanje delitelja 190458 191479</string>
+    <string name="br">Broj: </string>
+    <string name="brhint">Uneti broj...</string>
+    <string name="dugme">Racunaj</string>
+    <string name="delitelj_naslov">Delitelji: </string>
+    <string name="prost">Broj je prost. </string>
+    <string name="slozen">Broj je slozen. </string>
+    <string name="nista">Broj nije ni prost ni slozen. </string>
+</resources>
