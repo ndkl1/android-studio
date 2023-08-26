@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sept22</string>
+    <string name="naslov">Obrtanje</string>
+    <string name="broj">broj </string>
+    <string name="hint">Unesite broj </string>
+    <string name="dugme">Obrni</string>
+    <string name="chooser">Izaberi</string>
+</resources>
