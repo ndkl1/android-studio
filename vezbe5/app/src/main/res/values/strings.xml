@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">vezbe 5</string>
+    <string name="naslov">Savršen broj</string>
+    <string name="nbr">Broj</string>
+    <string name="hint1">Unesi broj...</string>
+    <string name="dugme1">Proveri</string>
+    <string name="nrez">Odgovor:</string>
+    <string name="dugme2">OK</string>
+
+    <string name="dijalog">Odgovor...</string>
+    <string name="savr">Broj je savrsen</string>
+    <string name="nesavr">Broj nije savrsen</string>
+</resources>
