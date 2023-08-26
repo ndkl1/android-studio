@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">vezba 1</string>
+    <string name="natpis">Raspored</string>
+    <string name="button_1">Grupa 1</string>
+    <string name="button_2">Grupa 2</string>
+    <string name="button_3">Grupa 3</string>
+    <string name="da">Da</string>
+    <string name="ne">Ne</string>
+    <string name="natpis1">Detaljan prikaz</string>
+    <string-array name="spinnerValues">
+        <item>1. semestar</item>
+        <item>2. semestar</item>
+    </string-array>
+</resources>
