@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">vezbe 4</string>
+    <string name="naslov">Prebrojavanje slova</string>
+    <string name="slovo">Slovo</string>
+    <string name="str">String</string>
+    <string name="dugme">Prebroj</string>
+    <string name="hint1">Unesi slovo...</string>
+    <string name="hint2">Unesi string...</string>
+    <string name="rez">Rezultat</string>
+    <string name="nazad">Nazad</string>
+</resources>
