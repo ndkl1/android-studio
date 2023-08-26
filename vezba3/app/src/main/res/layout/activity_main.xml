@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="match_parent">
+
+            <TextView
+                android:id="@+id/nasl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/naslov"
+                android:textSize="20dp"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/nbr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/br" />
+
+            <EditText
+                android:id="@+id/broj"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:text=" "/>
+
+        </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/but1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fakt"
+        android:ems="10"
+        android:onClick="faktorijel"/>
+
+    <Button
+        android:id="@+id/but2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/zbircif"
+        android:onClick="zbirCifara"/>
+    </TableRow>
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

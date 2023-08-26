@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vezba 3</string>
+    <string name="br">Broj</string>
+    <string name="naslov">Racunanje</string>
+    <string name="fakt">Faktorijel</string>
+    <string name="zbircif">Zbir cifara</string>
+    <string name="rez">Rezultat:</string>
+</resources>
